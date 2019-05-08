@@ -3,7 +3,7 @@
   "description": "This is core for Thor Addon",
   "autoload": {
     "psr-4": {
-      "Core\\": "core/"
+      "Thor\\Core\\": "core/"
     }
   },
   "license": "MIT",
