@@ -1,0 +1,26 @@
+{
+  "name": "mwspace/thor-core",
+  "description": "This is core for Thor Addon",
+  "autoload": {
+    "psr-4": {
+      "Thor\\Core\\": "core/"
+    }
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Aleksandr Ivanovitch",
+      "email": "alex@mwspace.com",
+      "homepage": "https://mwspace.com",
+      "role": "CTO"
+    }
+  ],
+  "require": {
+    "php": "^5.6",
+    "nikic/fast-route": "v1.x-dev",
+    "phpmailer/phpmailer": "6.0.x-dev",
+    "symfony/console": "3.4.x-dev",
+    "symfony/debug": "3.3.x-dev",
+    "symfony/var-dumper": "3.3.x-dev"
+  }
+}
