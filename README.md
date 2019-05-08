@@ -1,1 +1,1 @@
-👌 This is the core of <a href="/MwSpaceLLC/thorhttps://github.com/MwSpaceLLC/thor">Thor Addon</a>
+👌 This is the core of <a href="https://github.com/MwSpaceLLC/thorhttps://github.com/MwSpaceLLC/thor" target="_blank">Thor Addon</a>
